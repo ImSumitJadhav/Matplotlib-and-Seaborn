@@ -24,3 +24,5 @@ cmap- cmap name
 linewidths- width of marker border
 edgecolor- marker border color
 alpha- blending value, between 0 (transparent) and 1 (opaque))
+
+Plot subplots- https://engineeringfordatascience.com/posts/matplotlib_subplots/
